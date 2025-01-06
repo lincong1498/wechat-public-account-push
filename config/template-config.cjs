@@ -52,6 +52,20 @@ const TEMPLATE_CONFIG = [
       失败用户: {{fail_post_ids.DATA}}
     `
   },
+    {
+    id: '0003',
+    title: '快下班呀',
+    desc: `
+     下班，打卡，下班，打卡，下班，打卡
+    `
+  },
+      {
+    id: '0004',
+    title: '真好又活了一天————上班',
+    desc: `
+     上班，打卡，上班，打卡，上班，打卡
+    `
+  },
 ]
 
 module.exports = TEMPLATE_CONFIG
