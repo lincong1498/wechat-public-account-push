@@ -12,6 +12,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '8802db279327baf8e005ba72709a0714',
+  // 请将以下代码按照图示粘贴到对应位置
+USE_PASSAGE: 'push-plus',
 
   PROVINCE: '吉林',
   CITY: '长春',
@@ -21,9 +23,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '燕子',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'YSIFAZJrp17Hrtgs2clyui9wqPKJJaCJicOxeQ1CuAY',
+      id: '33e5fab4b9504516986a30f0aca1f2f6',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'o4XRH7KUJ2ulyQB1og1nIJCPyc6E',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-09',
       festivals: [
